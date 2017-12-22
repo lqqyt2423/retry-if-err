@@ -1,6 +1,6 @@
 {
   "name": "retry-if-err",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "when catch promise error, retry",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,13 @@
     "retry"
   ],
   "author": "liqiang",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqqyt2423/retry-if-err.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lqqyt2423/retry-if-err/issues"
+  },
+  "homepage": "https://github.com/lqqyt2423/retry-if-err#readme"
 }
