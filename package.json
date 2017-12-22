@@ -1,0 +1,14 @@
+{
+  "name": "retry-if-err",
+  "version": "0.0.1",
+  "description": "when catch promise error, retry",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "retry"
+  ],
+  "author": "liqiang",
+  "license": "ISC"
+}
